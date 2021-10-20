@@ -1,4 +1,4 @@
-# Todo App
+# ToDo App
 
 Esta Todo App esta creada con React, TypeScript y Css.
 
