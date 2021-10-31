@@ -24,7 +24,8 @@
     "start": "react-scripts start",
     "test": "node ./.github/action_activate.js && react-scripts test --watchAll=false",
     "test:ci": "node ./.github/prepare.js && react-scripts test --testResultsProcessor ./.github/reporter.js --watchAll=false --detectOpenHandles --verbose",
-    "test:old": "react-scripts test"
+    "test:old": "react-scripts test",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
