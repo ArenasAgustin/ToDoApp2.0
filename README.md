@@ -14,3 +14,6 @@ Las tareas apareceran en las listas de "Todo", "InProgress" y "Done" dependiendo
 ### Modificcar el estado o eliminar de la Todo
 
 Para cambiar el estado de la tarea a en proceso o terminado apretar el botón dependiendo del estado deseado para la todo. En el caso que se quiera eliminar la tarea hay que apretar el botón "Delete"
+
+## Link de la página funcional
+https://arenasagustin.github.io/ToDoApp2.0/
