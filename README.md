@@ -1,6 +1,8 @@
 # ToDo App
 
-Esta Todo App esta creada con React, TypeScript y Css.
+![image](https://user-images.githubusercontent.com/72575052/139510357-b232b546-1222-4271-bba6-1ae826a0ec33.png)
+
+Esta Todo App esta creada con React, JavaScript y Css.
 
 ### Agregar Todos
 
@@ -14,3 +16,6 @@ Las tareas apareceran en las listas de "Todo", "InProgress" y "Done" dependiendo
 ### Modificcar el estado o eliminar de la Todo
 
 Para cambiar el estado de la tarea a en proceso o terminado apretar el botón dependiendo del estado deseado para la todo. En el caso que se quiera eliminar la tarea hay que apretar el botón "Delete"
+
+## Link de la página funcional
+https://arenasagustin.github.io/ToDoApp2.0/
